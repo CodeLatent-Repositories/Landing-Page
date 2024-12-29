@@ -21,7 +21,7 @@ const Footer = () => {
         <img src="twitter.png" alt="Twitter"/>
       </a>
       </div>
-      <p className='mt-4 mb-1 text-sm'><a href='#'>Privacy Policy</a></p>
+      <p className='mt-4 mb-1 text-sm'><a href='https://codelatent-pp.netlify.app/'>Privacy Policy</a></p>
       <p className='max-w-xl text-[0.7rem]'>Your privacy is our priority. We are committed to protecting your personal data and ensuring that your experience with us is safe and secure. Read our detailed privacy policy to understand how we manage your information.</p>
       </footer>
   );
